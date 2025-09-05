@@ -1,0 +1,501 @@
+Patient_ID,Admission_Date,Discharge_Date,Primary_Diagnosis,Procedure_Performed,Room_Type,Bed_Days,Supplies_Used,Equipment_Used,Nurses_Needed,Doctors_Needed,Technicians_Needed
+P001,2024-10-01 16:22:35,2024-10-15 01:22:35,Fracture,Chest X-ray,ICU,13,"Mask, Gown",X-ray Machine,0,0,1
+P002,2024-10-14 22:09:37,2024-10-19 01:09:37,Appendicitis,Appendectomy,General Ward,4,"Gown, IV",Surgical Table,3,1,1
+P003,2024-10-08 05:47:21,2024-10-20 16:47:21,Diabetes,Blood Test,ICU,12,"Mask, Gown",MRI Machine,2,0,0
+P004,2024-10-23 05:33:56,2024-11-04 05:33:56,Diabetes,Blood Test,ICU,12,"Gown, IV",MRI Machine,1,0,0
+P005,2024-10-16 00:23:15,2024-10-19 03:23:15,Fracture,Chest X-ray,General Ward,3,"Mask, Gown",X-ray Machine,0,0,2
+P006,2024-10-29 04:04:21,2024-11-11 06:04:21,Fracture,MRI,General Ward,13,"Gloves, IV",MRI Machine,1,0,2
+P007,2024-10-23 12:39:30,2024-10-29 18:39:30,Appendicitis,Appendectomy,General Ward,6,"Gown, IV",Surgical Table,3,1,1
+P008,2024-10-17 01:42:56,2024-10-26 09:42:56,Appendicitis,Appendectomy,ICU,9,"Gloves, IV",Surgical Table,3,2,0
+P009,2024-10-10 10:33:40,2024-10-11 13:33:40,Pneumonia,Blood Test,ER,1,"Gown, IV",Surgical Table,2,0,0
+P010,2024-10-08 09:06:52,2024-10-14 09:06:52,Pneumonia,Chest X-ray,General Ward,6,"Mask, Gown",X-ray Machine,0,1,2
+P011,2024-10-20 01:55:26,2024-10-27 07:55:26,Appendicitis,Appendectomy,ICU,7,"Gown, IV",Surgical Table,2,2,0
+P012,2024-10-27 10:29:54,2024-11-02 16:29:54,Diabetes,Blood Test,General Ward,6,"Gloves, IV",Surgical Table,1,0,1
+P013,2024-10-30 09:45:33,2024-11-11 15:45:33,Appendicitis,Appendectomy,ICU,12,"Gloves, IV",Surgical Table,2,1,1
+P014,2024-10-31 01:41:18,2024-11-07 03:41:18,Diabetes,Blood Test,General Ward,7,"Mask, Gown",X-ray Machine,1,0,0
+P015,2024-10-10 11:18:04,2024-10-21 14:18:04,Pneumonia,Blood Test,ICU,11,"Mask, Gown",Surgical Table,2,0,0
+P016,2024-10-27 00:02:10,2024-10-30 09:02:10,Diabetes,Blood Test,ICU,3,"Mask, Gown",X-ray Machine,1,0,0
+P017,2024-10-09 19:10:20,2024-10-19 22:10:20,Diabetes,Blood Test,ICU,10,"Gloves, IV",MRI Machine,1,0,0
+P018,2024-10-05 12:37:40,2024-10-09 17:37:40,Diabetes,Blood Test,General Ward,4,"Mask, Gown",Surgical Table,2,0,0
+P019,2024-10-01 20:36:22,2024-10-14 23:36:22,Pneumonia,Chest X-ray,ICU,13,"Gloves, IV",X-ray Machine,1,1,2
+P020,2024-10-24 16:30:51,2024-11-05 18:30:51,Pneumonia,Chest X-ray,ICU,12,"Gown, IV",X-ray Machine,1,0,1
+P021,2024-10-20 08:53:44,2024-10-29 11:53:44,Fracture,Chest X-ray,General Ward,9,"Gloves, IV",X-ray Machine,0,1,2
+P022,2024-10-14 23:03:11,2024-10-23 00:03:11,Pneumonia,Blood Test,General Ward,8,"Gown, IV",MRI Machine,1,0,1
+P023,2024-10-01 11:05:20,2024-10-14 18:05:20,Fracture,MRI,ICU,13,"Mask, Gown",MRI Machine,1,1,2
+P024,2024-10-09 05:29:24,2024-10-13 05:29:24,Appendicitis,Appendectomy,General Ward,4,"Gloves, IV",Surgical Table,3,1,0
+P025,2024-10-31 08:45:39,2024-11-04 10:45:39,Pneumonia,Chest X-ray,ICU,4,"Gown, IV",X-ray Machine,0,0,2
+P026,2024-10-05 22:43:03,2024-10-17 08:43:03,Pneumonia,Blood Test,General Ward,11,"Gloves, IV",Surgical Table,1,0,0
+P027,2024-10-10 06:41:00,2024-10-15 08:41:00,Pneumonia,Chest X-ray,General Ward,5,"Mask, Gown",X-ray Machine,0,0,2
+P028,2024-10-29 12:26:11,2024-11-09 13:26:11,Appendicitis,Appendectomy,General Ward,11,"Mask, Gown",Surgical Table,3,2,1
+P029,2024-10-24 21:35:28,2024-11-04 22:35:28,Pneumonia,Chest X-ray,ICU,11,"Mask, Gown",X-ray Machine,0,1,1
+P030,2024-10-21 18:18:56,2024-10-25 22:18:56,Diabetes,Blood Test,General Ward,4,"Gown, IV",MRI Machine,2,0,1
+P031,2024-10-15 04:10:56,2024-10-24 13:10:56,Appendicitis,Appendectomy,ICU,9,"Gown, IV",Surgical Table,3,2,1
+P032,2024-10-03 14:45:25,2024-10-14 16:45:25,Fracture,MRI,ICU,11,"Gloves, IV",MRI Machine,2,1,2
+P033,2024-10-25 01:59:59,2024-11-05 11:59:59,Diabetes,Blood Test,ICU,11,"Gown, IV",MRI Machine,2,0,1
+P034,2024-10-13 21:42:55,2024-10-26 02:42:55,Appendicitis,Appendectomy,General Ward,12,"Gown, IV",Surgical Table,3,2,0
+P035,2024-10-14 05:06:00,2024-10-24 14:06:00,Pneumonia,Chest X-ray,ICU,10,"Mask, Gown",X-ray Machine,1,0,1
+P036,2024-10-12 05:30:31,2024-10-24 08:30:31,Pneumonia,Chest X-ray,ICU,12,"Gloves, IV",X-ray Machine,0,0,1
+P037,2024-10-30 20:27:23,2024-11-14 04:27:23,Diabetes,Blood Test,ICU,14,"Mask, Gown",Surgical Table,2,0,0
+P038,2024-10-12 10:44:20,2024-10-23 20:44:20,Fracture,MRI,ICU,11,"Mask, Gown",MRI Machine,1,0,2
+P039,2024-10-14 01:50:23,2024-10-26 12:50:23,Diabetes,Blood Test,ICU,12,"Gloves, IV",Surgical Table,2,0,1
+P040,2024-10-16 11:11:33,2024-10-18 15:11:33,Fracture,MRI,General Ward,2,"Mask, Gown",MRI Machine,2,0,2
+P041,2024-10-06 21:35:13,2024-10-08 07:35:13,Pneumonia,Blood Test,ER,1,"Gloves, IV",MRI Machine,2,0,0
+P042,2024-10-03 02:35:12,2024-10-14 13:35:12,Fracture,MRI,General Ward,11,"Gown, IV",MRI Machine,1,1,1
+P043,2024-10-15 00:40:45,2024-10-24 00:40:45,Fracture,Chest X-ray,General Ward,9,"Mask, Gown",X-ray Machine,1,0,1
+P044,2024-10-11 06:42:01,2024-10-17 16:42:01,Diabetes,Blood Test,General Ward,6,"Gown, IV",X-ray Machine,2,0,0
+P045,2024-10-26 16:35:15,2024-11-01 20:35:15,Fracture,Chest X-ray,ICU,6,"Gown, IV",X-ray Machine,0,0,2
+P046,2024-10-21 04:40:02,2024-10-25 05:40:02,Diabetes,Blood Test,General Ward,4,"Mask, Gown",MRI Machine,1,0,1
+P047,2024-10-15 00:57:12,2024-10-25 11:57:12,Fracture,Chest X-ray,General Ward,10,"Gown, IV",X-ray Machine,1,0,1
+P048,2024-10-28 01:54:06,2024-10-30 05:54:06,Diabetes,Blood Test,General Ward,2,"Gown, IV",MRI Machine,2,0,1
+P049,2024-10-09 02:32:54,2024-10-20 06:32:54,Pneumonia,Chest X-ray,ICU,11,"Mask, Gown",X-ray Machine,1,1,1
+P050,2024-10-01 03:54:31,2024-10-03 08:54:31,Pneumonia,Chest X-ray,General Ward,2,"Gloves, IV",X-ray Machine,0,0,1
+P051,2024-10-28 17:27:22,2024-11-04 18:27:22,Fracture,MRI,ICU,7,"Gloves, IV",MRI Machine,2,0,2
+P052,2024-10-23 23:52:11,2024-11-01 04:52:11,Appendicitis,Appendectomy,General Ward,8,"Mask, Gown",Surgical Table,1,1,0
+P053,2024-10-01 06:37:50,2024-10-09 09:37:50,Appendicitis,Appendectomy,ICU,8,"Mask, Gown",Surgical Table,2,1,0
+P054,2024-10-17 11:09:43,2024-10-31 13:09:43,Appendicitis,Appendectomy,ICU,14,"Gown, IV",Surgical Table,1,2,0
+P055,2024-10-31 22:22:06,2024-11-10 09:22:06,Fracture,Chest X-ray,ICU,9,"Mask, Gown",X-ray Machine,1,0,2
+P056,2024-10-26 22:17:18,2024-11-06 07:17:18,Diabetes,Blood Test,ICU,10,"Mask, Gown",Surgical Table,1,0,0
+P057,2024-10-03 13:35:39,2024-10-17 16:35:39,Fracture,Chest X-ray,ICU,14,"Gown, IV",X-ray Machine,0,0,2
+P058,2024-10-26 22:17:35,2024-10-28 06:17:35,Appendicitis,Appendectomy,ER,1,"Gown, IV",Surgical Table,1,1,1
+P059,2024-10-02 12:14:17,2024-10-16 22:14:17,Fracture,MRI,General Ward,14,"Gloves, IV",MRI Machine,1,1,2
+P060,2024-10-08 06:59:55,2024-10-22 17:59:55,Appendicitis,Appendectomy,General Ward,14,"Mask, Gown",Surgical Table,1,2,0
+P061,2024-10-06 22:37:44,2024-10-11 01:37:44,Appendicitis,Appendectomy,ICU,4,"Mask, Gown",Surgical Table,2,1,1
+P062,2024-10-02 11:06:14,2024-10-13 17:06:14,Appendicitis,Appendectomy,ICU,11,"Gloves, IV",Surgical Table,1,1,1
+P063,2024-10-16 11:51:06,2024-10-29 12:51:06,Pneumonia,Chest X-ray,ICU,13,"Mask, Gown",X-ray Machine,0,0,1
+P064,2024-10-03 11:09:06,2024-10-17 18:09:06,Appendicitis,Appendectomy,ICU,14,"Gown, IV",Surgical Table,2,1,0
+P065,2024-10-13 17:45:32,2024-10-24 19:45:32,Diabetes,Blood Test,ICU,11,"Mask, Gown",MRI Machine,1,0,0
+P066,2024-10-23 12:07:01,2024-11-02 22:07:01,Appendicitis,Appendectomy,General Ward,10,"Gloves, IV",Surgical Table,2,1,0
+P067,2024-10-20 17:45:22,2024-10-31 01:45:22,Appendicitis,Appendectomy,ICU,10,"Mask, Gown",Surgical Table,2,2,1
+P068,2024-10-03 06:23:59,2024-10-08 09:23:59,Pneumonia,Chest X-ray,General Ward,5,"Gloves, IV",X-ray Machine,1,0,2
+P069,2024-10-05 14:00:34,2024-10-06 19:00:34,Appendicitis,Appendectomy,ICU,1,"Gloves, IV",Surgical Table,3,1,1
+P070,2024-10-29 12:41:42,2024-11-08 14:41:42,Pneumonia,Blood Test,ICU,10,"Gown, IV",Surgical Table,1,0,0
+P071,2024-10-22 09:33:13,2024-10-31 20:33:13,Diabetes,Blood Test,General Ward,9,"Gloves, IV",X-ray Machine,2,0,1
+P072,2024-10-25 22:38:38,2024-10-28 23:38:38,Diabetes,Blood Test,ICU,3,"Gown, IV",X-ray Machine,2,0,1
+P073,2024-10-11 17:30:30,2024-10-25 21:30:30,Appendicitis,Appendectomy,ICU,14,"Mask, Gown",Surgical Table,2,2,0
+P074,2024-10-13 05:56:02,2024-10-21 16:56:02,Diabetes,Blood Test,General Ward,8,"Gloves, IV",MRI Machine,1,0,1
+P075,2024-10-17 08:50:53,2024-10-19 17:50:53,Appendicitis,Appendectomy,ICU,2,"Gown, IV",Surgical Table,2,1,1
+P076,2024-10-11 08:07:09,2024-10-14 14:07:09,Appendicitis,Appendectomy,ICU,3,"Gloves, IV",Surgical Table,1,1,0
+P077,2024-10-13 17:02:42,2024-10-16 03:02:42,Fracture,Chest X-ray,General Ward,2,"Mask, Gown",X-ray Machine,0,1,2
+P078,2024-10-07 16:58:22,2024-10-15 02:58:22,Fracture,MRI,General Ward,7,"Gown, IV",MRI Machine,2,1,2
+P079,2024-10-03 21:07:25,2024-10-08 00:07:25,Appendicitis,Appendectomy,General Ward,4,"Gown, IV",Surgical Table,2,1,0
+P080,2024-10-07 18:09:51,2024-10-11 05:09:51,Diabetes,Blood Test,ICU,3,"Gloves, IV",MRI Machine,2,0,1
+P081,2024-10-14 18:19:57,2024-10-17 00:19:57,Appendicitis,Appendectomy,General Ward,2,"Gown, IV",Surgical Table,2,1,0
+P082,2024-10-17 02:16:32,2024-10-23 11:16:32,Pneumonia,Blood Test,General Ward,6,"Gloves, IV",Surgical Table,1,0,1
+P083,2024-10-28 05:40:55,2024-10-30 15:40:55,Fracture,Chest X-ray,General Ward,2,"Mask, Gown",X-ray Machine,0,0,1
+P084,2024-10-28 09:30:23,2024-11-11 11:30:23,Appendicitis,Appendectomy,ICU,14,"Gown, IV",Surgical Table,2,2,1
+P085,2024-10-30 12:33:46,2024-11-13 23:33:46,Fracture,MRI,ICU,14,"Gloves, IV",MRI Machine,2,0,2
+P086,2024-10-16 16:29:39,2024-10-26 02:29:39,Diabetes,Blood Test,ICU,9,"Mask, Gown",Surgical Table,2,0,1
+P087,2024-10-03 19:35:49,2024-10-05 21:35:49,Diabetes,Blood Test,General Ward,2,"Gown, IV",X-ray Machine,1,0,0
+P088,2024-10-07 23:34:53,2024-10-16 09:34:53,Pneumonia,Chest X-ray,General Ward,8,"Gown, IV",X-ray Machine,0,1,2
+P089,2024-10-06 05:52:40,2024-10-20 15:52:40,Diabetes,Blood Test,ICU,14,"Gown, IV",MRI Machine,2,0,0
+P090,2024-10-31 10:18:10,2024-11-10 14:18:10,Pneumonia,Blood Test,ICU,10,"Gloves, IV",X-ray Machine,1,0,0
+P091,2024-10-30 07:32:50,2024-11-05 12:32:50,Diabetes,Blood Test,ICU,6,"Gown, IV",MRI Machine,1,0,1
+P092,2024-10-19 07:32:00,2024-10-31 11:32:00,Fracture,Chest X-ray,General Ward,12,"Mask, Gown",X-ray Machine,1,0,1
+P093,2024-10-25 22:26:47,2024-10-28 03:26:47,Pneumonia,Chest X-ray,General Ward,2,"Gloves, IV",X-ray Machine,0,1,1
+P094,2024-10-24 05:20:03,2024-11-02 11:20:03,Appendicitis,Appendectomy,ICU,9,"Gloves, IV",Surgical Table,2,2,1
+P095,2024-10-20 02:27:43,2024-10-28 10:27:43,Appendicitis,Appendectomy,ICU,8,"Gloves, IV",Surgical Table,1,2,1
+P096,2024-10-17 16:35:40,2024-10-22 23:35:40,Fracture,MRI,General Ward,5,"Gown, IV",MRI Machine,2,1,2
+P097,2024-10-24 12:53:19,2024-10-26 12:53:19,Diabetes,Blood Test,General Ward,2,"Gown, IV",MRI Machine,1,0,1
+P098,2024-10-23 07:34:06,2024-10-25 17:34:06,Pneumonia,Chest X-ray,General Ward,2,"Gown, IV",X-ray Machine,1,0,2
+P099,2024-10-09 22:10:29,2024-10-20 06:10:29,Pneumonia,Blood Test,ICU,10,"Mask, Gown",Surgical Table,1,0,1
+P100,2024-10-26 00:51:40,2024-11-07 02:51:40,Fracture,MRI,ICU,12,"Gloves, IV",MRI Machine,2,0,2
+P101,2024-10-18 10:20:41,2024-10-31 15:20:41,Appendicitis,Appendectomy,ICU,13,"Gloves, IV",Surgical Table,3,1,1
+P102,2024-10-25 19:14:50,2024-10-28 04:14:50,Fracture,MRI,General Ward,2,"Gloves, IV",MRI Machine,1,1,1
+P103,2024-10-07 14:38:43,2024-10-13 14:38:43,Fracture,MRI,General Ward,6,"Gown, IV",MRI Machine,1,1,2
+P104,2024-10-26 18:37:13,2024-10-29 02:37:13,Pneumonia,Chest X-ray,General Ward,2,"Mask, Gown",X-ray Machine,1,0,2
+P105,2024-10-06 08:23:11,2024-10-09 13:23:11,Diabetes,Blood Test,General Ward,3,"Gloves, IV",MRI Machine,2,0,1
+P106,2024-10-30 07:26:56,2024-11-11 15:26:56,Appendicitis,Appendectomy,ICU,12,"Gown, IV",Surgical Table,1,1,1
+P107,2024-10-02 05:27:51,2024-10-07 12:27:51,Diabetes,Blood Test,General Ward,5,"Gown, IV",MRI Machine,2,0,0
+P108,2024-10-11 11:31:17,2024-10-25 11:31:17,Appendicitis,Appendectomy,ICU,14,"Gloves, IV",Surgical Table,3,2,1
+P109,2024-10-06 09:44:18,2024-10-15 13:44:18,Appendicitis,Appendectomy,General Ward,9,"Mask, Gown",Surgical Table,3,1,0
+P110,2024-10-30 22:02:50,2024-11-11 07:02:50,Diabetes,Blood Test,ICU,11,"Mask, Gown",Surgical Table,1,0,1
+P111,2024-10-23 17:38:38,2024-11-07 01:38:38,Diabetes,Blood Test,ICU,14,"Gown, IV",Surgical Table,2,0,0
+P112,2024-10-21 03:27:22,2024-10-29 07:27:22,Fracture,MRI,General Ward,8,"Mask, Gown",MRI Machine,2,1,1
+P113,2024-10-13 05:35:57,2024-10-18 12:35:57,Pneumonia,Chest X-ray,General Ward,5,"Gloves, IV",X-ray Machine,0,1,1
+P114,2024-10-26 05:19:22,2024-11-09 11:19:22,Diabetes,Blood Test,ICU,14,"Gloves, IV",Surgical Table,2,0,0
+P115,2024-10-05 01:42:14,2024-10-07 05:42:14,Appendicitis,Appendectomy,ICU,2,"Gown, IV",Surgical Table,1,1,0
+P116,2024-10-20 08:42:27,2024-11-03 08:42:27,Diabetes,Blood Test,ICU,14,"Mask, Gown",X-ray Machine,1,0,0
+P117,2024-10-06 18:43:44,2024-10-08 22:43:44,Pneumonia,Blood Test,General Ward,2,"Gown, IV",MRI Machine,2,0,0
+P118,2024-10-27 13:53:54,2024-11-05 16:53:54,Appendicitis,Appendectomy,ICU,9,"Gloves, IV",Surgical Table,1,1,0
+P119,2024-10-19 11:14:18,2024-10-24 12:14:18,Fracture,Chest X-ray,General Ward,5,"Gloves, IV",X-ray Machine,1,1,1
+P120,2024-10-25 07:27:09,2024-11-08 09:27:09,Appendicitis,Appendectomy,ICU,14,"Gloves, IV",Surgical Table,1,1,0
+P121,2024-10-31 17:36:03,2024-11-05 22:36:03,Fracture,MRI,General Ward,5,"Gown, IV",MRI Machine,1,1,1
+P122,2024-10-27 11:25:40,2024-11-02 12:25:40,Fracture,MRI,General Ward,6,"Gloves, IV",MRI Machine,1,0,1
+P123,2024-10-24 19:01:42,2024-10-28 21:01:42,Pneumonia,Blood Test,General Ward,4,"Mask, Gown",X-ray Machine,2,0,0
+P124,2024-10-10 04:20:06,2024-10-20 14:20:06,Pneumonia,Blood Test,ICU,10,"Mask, Gown",MRI Machine,1,0,1
+P125,2024-10-18 06:40:39,2024-10-22 09:40:39,Diabetes,Blood Test,General Ward,4,"Gloves, IV",X-ray Machine,1,0,1
+P126,2024-10-03 15:25:45,2024-10-09 17:25:45,Appendicitis,Appendectomy,General Ward,6,"Gown, IV",Surgical Table,1,2,0
+P127,2024-10-17 14:08:07,2024-10-25 17:08:07,Diabetes,Blood Test,ICU,8,"Mask, Gown",MRI Machine,1,0,0
+P128,2024-10-13 15:51:44,2024-10-24 19:51:44,Fracture,MRI,ICU,11,"Gown, IV",MRI Machine,2,1,2
+P129,2024-10-09 20:24:14,2024-10-13 04:24:14,Diabetes,Blood Test,General Ward,3,"Gloves, IV",Surgical Table,2,0,0
+P130,2024-10-13 07:38:42,2024-10-16 14:38:42,Pneumonia,Chest X-ray,ICU,3,"Mask, Gown",X-ray Machine,0,0,2
+P131,2024-10-24 14:10:39,2024-10-28 16:10:39,Diabetes,Blood Test,General Ward,4,"Mask, Gown",Surgical Table,1,0,1
+P132,2024-10-27 07:23:28,2024-11-10 16:23:28,Diabetes,Blood Test,ICU,14,"Mask, Gown",Surgical Table,1,0,0
+P133,2024-10-19 08:18:01,2024-10-30 13:18:01,Fracture,Chest X-ray,ICU,11,"Gown, IV",X-ray Machine,1,1,2
+P134,2024-10-09 12:59:30,2024-10-13 22:59:30,Appendicitis,Appendectomy,General Ward,4,"Gloves, IV",Surgical Table,3,2,0
+P135,2024-10-16 00:19:35,2024-10-18 00:19:35,Pneumonia,Blood Test,General Ward,2,"Gloves, IV",Surgical Table,1,0,1
+P136,2024-10-05 01:06:07,2024-10-12 11:06:07,Diabetes,Blood Test,ICU,7,"Gloves, IV",Surgical Table,2,0,1
+P137,2024-10-25 09:07:42,2024-10-26 18:07:42,Appendicitis,Appendectomy,ER,1,"Gown, IV",Surgical Table,2,1,0
+P138,2024-10-27 08:29:22,2024-11-05 14:29:22,Pneumonia,Chest X-ray,General Ward,9,"Mask, Gown",X-ray Machine,0,1,1
+P139,2024-10-19 12:46:25,2024-10-25 19:46:25,Fracture,Chest X-ray,General Ward,6,"Gown, IV",X-ray Machine,0,0,2
+P140,2024-10-19 13:35:42,2024-10-21 14:35:42,Fracture,Chest X-ray,General Ward,2,"Mask, Gown",X-ray Machine,0,1,2
+P141,2024-10-24 13:14:09,2024-11-04 19:14:09,Diabetes,Blood Test,General Ward,11,"Gown, IV",X-ray Machine,2,0,0
+P142,2024-10-29 19:37:25,2024-11-07 01:37:25,Appendicitis,Appendectomy,General Ward,8,"Mask, Gown",Surgical Table,1,2,1
+P143,2024-10-15 16:40:31,2024-10-26 03:40:31,Appendicitis,Appendectomy,ICU,10,"Gloves, IV",Surgical Table,1,2,0
+P144,2024-10-08 05:16:08,2024-10-09 07:16:08,Pneumonia,Chest X-ray,ER,1,"Gown, IV",X-ray Machine,1,0,2
+P145,2024-10-12 11:27:38,2024-10-18 19:27:38,Diabetes,Blood Test,ICU,6,"Gloves, IV",X-ray Machine,2,0,1
+P146,2024-10-18 17:33:01,2024-10-26 18:33:01,Appendicitis,Appendectomy,ICU,8,"Gown, IV",Surgical Table,2,2,1
+P147,2024-10-20 11:57:40,2024-10-23 11:57:40,Fracture,Chest X-ray,General Ward,3,"Gloves, IV",X-ray Machine,0,1,2
+P148,2024-10-23 05:55:20,2024-11-03 13:55:20,Diabetes,Blood Test,ICU,11,"Gown, IV",Surgical Table,1,0,1
+P149,2024-10-17 06:43:28,2024-10-30 08:43:28,Appendicitis,Appendectomy,ICU,13,"Gown, IV",Surgical Table,2,1,1
+P150,2024-10-31 09:49:03,2024-11-10 11:49:03,Pneumonia,Chest X-ray,General Ward,10,"Gloves, IV",X-ray Machine,0,1,1
+P151,2024-10-10 01:32:24,2024-10-17 05:32:24,Pneumonia,Blood Test,General Ward,7,"Gown, IV",MRI Machine,2,0,0
+P152,2024-10-16 09:19:14,2024-10-22 20:19:14,Pneumonia,Blood Test,General Ward,6,"Mask, Gown",X-ray Machine,1,0,1
+P153,2024-10-17 12:02:33,2024-10-20 16:02:33,Pneumonia,Chest X-ray,General Ward,3,"Gown, IV",X-ray Machine,1,0,1
+P154,2024-10-13 03:36:22,2024-10-24 05:36:22,Fracture,Chest X-ray,ICU,11,"Gloves, IV",X-ray Machine,1,0,1
+P155,2024-10-27 20:36:31,2024-11-10 02:36:31,Diabetes,Blood Test,ICU,13,"Gown, IV",X-ray Machine,1,0,1
+P156,2024-10-05 03:59:32,2024-10-08 03:59:32,Pneumonia,Chest X-ray,General Ward,3,"Gown, IV",X-ray Machine,0,1,2
+P157,2024-10-02 12:06:46,2024-10-16 21:06:46,Pneumonia,Chest X-ray,ICU,14,"Gown, IV",X-ray Machine,1,1,1
+P158,2024-10-21 14:00:03,2024-10-26 21:00:03,Diabetes,Blood Test,General Ward,5,"Gloves, IV",X-ray Machine,1,0,1
+P159,2024-10-03 10:05:32,2024-10-17 16:05:32,Pneumonia,Blood Test,ICU,14,"Gloves, IV",X-ray Machine,2,0,1
+P160,2024-10-28 09:18:43,2024-11-04 20:18:43,Diabetes,Blood Test,General Ward,7,"Gloves, IV",MRI Machine,2,0,0
+P161,2024-10-28 15:06:20,2024-11-10 18:06:20,Fracture,MRI,ICU,13,"Gloves, IV",MRI Machine,2,1,2
+P162,2024-10-28 07:21:34,2024-10-30 14:21:34,Diabetes,Blood Test,ICU,2,"Mask, Gown",MRI Machine,1,0,1
+P163,2024-10-21 23:50:15,2024-10-28 03:50:15,Diabetes,Blood Test,General Ward,6,"Gown, IV",X-ray Machine,1,0,1
+P164,2024-10-21 04:48:15,2024-11-02 07:48:15,Diabetes,Blood Test,General Ward,12,"Gown, IV",MRI Machine,2,0,1
+P165,2024-10-23 01:28:05,2024-10-25 12:28:05,Appendicitis,Appendectomy,General Ward,2,"Gown, IV",Surgical Table,3,2,1
+P166,2024-10-28 12:08:07,2024-11-01 23:08:07,Diabetes,Blood Test,ICU,4,"Gloves, IV",Surgical Table,1,0,0
+P167,2024-10-25 07:35:12,2024-10-27 13:35:12,Pneumonia,Chest X-ray,General Ward,2,"Mask, Gown",X-ray Machine,1,1,1
+P168,2024-10-23 00:56:08,2024-10-24 03:56:08,Appendicitis,Appendectomy,ER,1,"Mask, Gown",Surgical Table,3,2,1
+P169,2024-10-24 15:22:51,2024-11-06 20:22:51,Diabetes,Blood Test,ICU,13,"Mask, Gown",MRI Machine,1,0,0
+P170,2024-10-20 20:36:10,2024-11-01 20:36:10,Diabetes,Blood Test,ICU,12,"Gown, IV",X-ray Machine,2,0,1
+P171,2024-10-16 03:33:02,2024-10-29 05:33:02,Pneumonia,Blood Test,ICU,13,"Gown, IV",MRI Machine,1,0,1
+P172,2024-10-24 23:45:00,2024-10-31 09:45:00,Pneumonia,Blood Test,ICU,6,"Gown, IV",Surgical Table,2,0,1
+P173,2024-10-05 21:58:22,2024-10-14 21:58:22,Appendicitis,Appendectomy,ICU,9,"Gown, IV",Surgical Table,2,2,1
+P174,2024-10-18 14:15:58,2024-10-22 18:15:58,Fracture,Chest X-ray,General Ward,4,"Gown, IV",X-ray Machine,0,1,1
+P175,2024-10-16 16:44:04,2024-10-30 22:44:04,Pneumonia,Blood Test,ICU,14,"Gloves, IV",X-ray Machine,1,0,1
+P176,2024-10-07 22:32:13,2024-10-17 00:32:13,Pneumonia,Chest X-ray,General Ward,9,"Gloves, IV",X-ray Machine,0,0,1
+P177,2024-10-24 15:07:26,2024-11-07 21:07:26,Pneumonia,Chest X-ray,ICU,14,"Gown, IV",X-ray Machine,1,1,1
+P178,2024-10-15 11:55:42,2024-10-24 22:55:42,Pneumonia,Chest X-ray,ICU,9,"Gloves, IV",X-ray Machine,0,0,1
+P179,2024-10-20 06:04:56,2024-11-01 08:04:56,Diabetes,Blood Test,ICU,12,"Gloves, IV",Surgical Table,2,0,1
+P180,2024-10-29 07:40:34,2024-11-03 18:40:34,Appendicitis,Appendectomy,ICU,5,"Gloves, IV",Surgical Table,3,1,0
+P181,2024-10-15 22:32:13,2024-10-29 01:32:13,Fracture,MRI,General Ward,13,"Gown, IV",MRI Machine,2,1,1
+P182,2024-10-13 09:23:52,2024-10-26 15:23:52,Fracture,Chest X-ray,General Ward,13,"Mask, Gown",X-ray Machine,0,1,2
+P183,2024-10-10 17:07:05,2024-10-13 03:07:05,Pneumonia,Chest X-ray,General Ward,2,"Gown, IV",X-ray Machine,1,1,2
+P184,2024-10-09 07:35:22,2024-10-21 07:35:22,Fracture,Chest X-ray,General Ward,12,"Gloves, IV",X-ray Machine,1,1,1
+P185,2024-10-10 19:01:21,2024-10-14 21:01:21,Diabetes,Blood Test,General Ward,4,"Gloves, IV",MRI Machine,1,0,0
+P186,2024-10-12 05:47:06,2024-10-25 06:47:06,Appendicitis,Appendectomy,General Ward,13,"Gown, IV",Surgical Table,3,2,0
+P187,2024-10-13 10:48:23,2024-10-18 17:48:23,Appendicitis,Appendectomy,General Ward,5,"Gloves, IV",Surgical Table,3,1,1
+P188,2024-10-26 07:11:16,2024-11-05 08:11:16,Fracture,MRI,ICU,10,"Gown, IV",MRI Machine,2,1,1
+P189,2024-10-16 20:23:22,2024-10-21 01:23:22,Pneumonia,Blood Test,General Ward,4,"Gown, IV",Surgical Table,2,0,0
+P190,2024-10-14 07:26:28,2024-10-24 18:26:28,Diabetes,Blood Test,ICU,10,"Mask, Gown",MRI Machine,1,0,1
+P191,2024-10-09 12:08:27,2024-10-19 16:08:27,Fracture,MRI,ICU,10,"Gown, IV",MRI Machine,1,1,2
+P192,2024-10-14 18:35:11,2024-10-19 21:35:11,Fracture,Chest X-ray,General Ward,5,"Gown, IV",X-ray Machine,0,0,1
+P193,2024-10-31 17:15:02,2024-11-01 22:15:02,Fracture,MRI,General Ward,1,"Mask, Gown",MRI Machine,1,1,1
+P194,2024-10-29 21:58:22,2024-11-07 06:58:22,Fracture,MRI,General Ward,8,"Gloves, IV",MRI Machine,1,1,1
+P195,2024-10-14 14:00:08,2024-10-24 15:00:08,Fracture,MRI,ICU,10,"Gloves, IV",MRI Machine,1,0,2
+P196,2024-10-08 13:33:49,2024-10-19 17:33:49,Diabetes,Blood Test,ICU,11,"Gown, IV",MRI Machine,2,0,1
+P197,2024-10-06 07:50:25,2024-10-07 18:50:25,Appendicitis,Appendectomy,ER,1,"Gown, IV",Surgical Table,3,1,1
+P198,2024-10-27 11:55:34,2024-10-31 12:55:34,Diabetes,Blood Test,General Ward,4,"Gown, IV",Surgical Table,2,0,1
+P199,2024-10-08 21:06:18,2024-10-09 23:06:18,Fracture,Chest X-ray,ER,1,"Mask, Gown",X-ray Machine,1,1,1
+P200,2024-10-31 03:55:25,2024-11-07 07:55:25,Fracture,MRI,General Ward,7,"Gloves, IV",MRI Machine,1,0,2
+P201,2024-10-30 23:02:23,2024-11-07 23:02:23,Fracture,MRI,General Ward,8,"Gown, IV",MRI Machine,1,0,1
+P202,2024-10-22 10:23:39,2024-11-01 14:23:39,Diabetes,Blood Test,ICU,10,"Gloves, IV",MRI Machine,1,0,0
+P203,2024-10-21 16:07:38,2024-10-31 17:07:38,Fracture,MRI,ICU,10,"Gloves, IV",MRI Machine,2,0,1
+P204,2024-10-11 09:14:08,2024-10-21 10:14:08,Pneumonia,Blood Test,ICU,10,"Gown, IV",MRI Machine,1,0,0
+P205,2024-10-06 20:22:26,2024-10-15 03:22:26,Appendicitis,Appendectomy,ICU,8,"Mask, Gown",Surgical Table,3,1,1
+P206,2024-10-30 03:30:58,2024-11-03 10:30:58,Pneumonia,Chest X-ray,General Ward,4,"Gown, IV",X-ray Machine,0,0,1
+P207,2024-10-18 03:48:13,2024-10-29 09:48:13,Appendicitis,Appendectomy,ICU,11,"Gloves, IV",Surgical Table,3,2,0
+P208,2024-10-08 07:54:21,2024-10-12 13:54:21,Pneumonia,Blood Test,General Ward,4,"Gown, IV",MRI Machine,2,0,1
+P209,2024-10-12 15:51:43,2024-10-18 19:51:43,Fracture,Chest X-ray,General Ward,6,"Gown, IV",X-ray Machine,1,1,2
+P210,2024-10-26 04:46:46,2024-10-30 11:46:46,Diabetes,Blood Test,General Ward,4,"Gown, IV",Surgical Table,2,0,0
+P211,2024-10-13 13:40:39,2024-10-26 22:40:39,Appendicitis,Appendectomy,General Ward,13,"Mask, Gown",Surgical Table,3,2,1
+P212,2024-10-23 22:00:49,2024-10-28 09:00:49,Appendicitis,Appendectomy,ICU,4,"Gown, IV",Surgical Table,1,2,0
+P213,2024-10-05 06:58:41,2024-10-07 14:58:41,Diabetes,Blood Test,General Ward,2,"Mask, Gown",MRI Machine,1,0,1
+P214,2024-10-28 11:42:25,2024-11-05 14:42:25,Pneumonia,Chest X-ray,General Ward,8,"Mask, Gown",X-ray Machine,0,1,2
+P215,2024-10-16 01:30:35,2024-10-29 05:30:35,Diabetes,Blood Test,ICU,13,"Gloves, IV",Surgical Table,1,0,0
+P216,2024-10-21 14:58:15,2024-10-25 16:58:15,Appendicitis,Appendectomy,ICU,4,"Gloves, IV",Surgical Table,3,1,1
+P217,2024-10-16 22:06:54,2024-10-24 03:06:54,Appendicitis,Appendectomy,ICU,7,"Gloves, IV",Surgical Table,2,2,1
+P218,2024-10-16 20:30:12,2024-10-24 23:30:12,Diabetes,Blood Test,ICU,8,"Gown, IV",X-ray Machine,2,0,1
+P219,2024-10-01 04:05:48,2024-10-11 11:05:48,Diabetes,Blood Test,ICU,10,"Gown, IV",Surgical Table,2,0,0
+P220,2024-10-07 14:34:41,2024-10-13 19:34:41,Diabetes,Blood Test,General Ward,6,"Mask, Gown",X-ray Machine,1,0,1
+P221,2024-10-12 13:33:31,2024-10-21 16:33:31,Fracture,MRI,ICU,9,"Gloves, IV",MRI Machine,1,1,2
+P222,2024-10-25 15:46:40,2024-11-02 15:46:40,Fracture,MRI,ICU,8,"Mask, Gown",MRI Machine,2,0,1
+P223,2024-10-26 13:17:09,2024-10-31 22:17:09,Diabetes,Blood Test,General Ward,5,"Gown, IV",MRI Machine,2,0,1
+P224,2024-10-15 09:51:52,2024-10-19 20:51:52,Pneumonia,Blood Test,General Ward,4,"Gown, IV",X-ray Machine,2,0,1
+P225,2024-10-08 05:19:03,2024-10-18 09:19:03,Pneumonia,Blood Test,General Ward,10,"Gown, IV",Surgical Table,2,0,1
+P226,2024-10-14 02:01:50,2024-10-15 10:01:50,Fracture,Chest X-ray,ER,1,"Gown, IV",X-ray Machine,0,1,1
+P227,2024-10-12 18:16:19,2024-10-24 18:16:19,Fracture,Chest X-ray,ICU,12,"Gown, IV",X-ray Machine,1,1,2
+P228,2024-10-01 12:16:32,2024-10-10 20:16:32,Fracture,MRI,General Ward,9,"Gown, IV",MRI Machine,1,1,1
+P229,2024-10-24 03:33:34,2024-11-05 10:33:34,Appendicitis,Appendectomy,ICU,12,"Gloves, IV",Surgical Table,1,1,0
+P230,2024-10-21 07:34:06,2024-10-30 18:34:06,Diabetes,Blood Test,General Ward,9,"Gown, IV",Surgical Table,2,0,1
+P231,2024-10-13 10:05:23,2024-10-15 11:05:23,Diabetes,Blood Test,General Ward,2,"Mask, Gown",Surgical Table,2,0,1
+P232,2024-10-06 07:08:42,2024-10-07 17:08:42,Pneumonia,Chest X-ray,ER,1,"Gown, IV",X-ray Machine,1,0,1
+P233,2024-10-05 11:22:47,2024-10-18 15:22:47,Appendicitis,Appendectomy,ICU,13,"Gloves, IV",Surgical Table,3,2,0
+P234,2024-10-18 13:11:46,2024-10-28 17:11:46,Pneumonia,Blood Test,ICU,10,"Gown, IV",X-ray Machine,1,0,1
+P235,2024-10-30 20:52:28,2024-11-10 20:52:28,Fracture,MRI,ICU,11,"Gloves, IV",MRI Machine,1,0,2
+P236,2024-10-05 08:01:27,2024-10-18 10:01:27,Appendicitis,Appendectomy,ICU,13,"Mask, Gown",Surgical Table,2,1,0
+P237,2024-10-08 14:54:33,2024-10-10 22:54:33,Pneumonia,Blood Test,ICU,2,"Gloves, IV",MRI Machine,1,0,0
+P238,2024-10-06 08:09:35,2024-10-14 17:09:35,Appendicitis,Appendectomy,ICU,8,"Mask, Gown",Surgical Table,3,2,0
+P239,2024-10-15 08:45:59,2024-10-24 14:45:59,Diabetes,Blood Test,ICU,9,"Gloves, IV",X-ray Machine,2,0,1
+P240,2024-10-19 03:13:30,2024-10-28 11:13:30,Pneumonia,Chest X-ray,General Ward,9,"Gloves, IV",X-ray Machine,1,1,2
+P241,2024-10-22 01:56:13,2024-10-28 12:56:13,Appendicitis,Appendectomy,ICU,6,"Mask, Gown",Surgical Table,1,2,1
+P242,2024-10-09 11:14:02,2024-10-19 18:14:02,Pneumonia,Chest X-ray,ICU,10,"Mask, Gown",X-ray Machine,1,0,2
+P243,2024-10-22 13:06:52,2024-10-28 18:06:52,Fracture,Chest X-ray,General Ward,6,"Mask, Gown",X-ray Machine,0,1,1
+P244,2024-10-24 03:11:38,2024-10-31 13:11:38,Appendicitis,Appendectomy,General Ward,7,"Gown, IV",Surgical Table,3,1,1
+P245,2024-10-15 02:59:56,2024-10-28 08:59:56,Fracture,MRI,ICU,13,"Gown, IV",MRI Machine,2,1,2
+P246,2024-10-16 05:17:18,2024-10-20 12:17:18,Diabetes,Blood Test,General Ward,4,"Gloves, IV",Surgical Table,2,0,0
+P247,2024-10-08 17:43:53,2024-10-11 17:43:53,Fracture,MRI,General Ward,3,"Gown, IV",MRI Machine,2,1,1
+P248,2024-10-24 17:12:05,2024-10-31 04:12:05,Pneumonia,Chest X-ray,General Ward,6,"Gloves, IV",X-ray Machine,1,0,1
+P249,2024-10-31 23:16:15,2024-11-14 23:16:15,Appendicitis,Appendectomy,ICU,14,"Gloves, IV",Surgical Table,2,1,0
+P250,2024-10-06 05:42:06,2024-10-16 16:42:06,Pneumonia,Chest X-ray,ICU,10,"Gown, IV",X-ray Machine,1,0,1
+P251,2024-10-10 09:11:39,2024-10-13 15:11:39,Appendicitis,Appendectomy,General Ward,3,"Gloves, IV",Surgical Table,1,1,1
+P252,2024-10-30 05:35:59,2024-11-03 16:35:59,Pneumonia,Blood Test,General Ward,4,"Mask, Gown",Surgical Table,1,0,0
+P253,2024-10-16 03:20:54,2024-10-20 05:20:54,Pneumonia,Blood Test,General Ward,4,"Gloves, IV",X-ray Machine,1,0,0
+P254,2024-10-03 13:07:47,2024-10-11 17:07:47,Appendicitis,Appendectomy,ICU,8,"Gown, IV",Surgical Table,1,2,0
+P255,2024-10-18 11:14:56,2024-10-21 16:14:56,Diabetes,Blood Test,ICU,3,"Gloves, IV",Surgical Table,1,0,0
+P256,2024-10-19 05:53:12,2024-10-24 12:53:12,Appendicitis,Appendectomy,ICU,5,"Gown, IV",Surgical Table,1,1,0
+P257,2024-10-10 07:44:14,2024-10-16 11:44:14,Appendicitis,Appendectomy,ICU,6,"Mask, Gown",Surgical Table,3,1,1
+P258,2024-10-29 01:09:38,2024-11-06 06:09:38,Pneumonia,Blood Test,General Ward,8,"Mask, Gown",MRI Machine,1,0,1
+P259,2024-10-27 10:51:20,2024-10-31 15:51:20,Fracture,MRI,ICU,4,"Gloves, IV",MRI Machine,2,1,1
+P260,2024-10-19 14:26:18,2024-10-30 14:26:18,Fracture,Chest X-ray,ICU,11,"Mask, Gown",X-ray Machine,0,0,2
+P261,2024-10-18 19:07:01,2024-10-31 01:07:01,Fracture,MRI,General Ward,12,"Gloves, IV",MRI Machine,2,1,2
+P262,2024-10-22 07:13:23,2024-10-31 11:13:23,Fracture,MRI,General Ward,9,"Gown, IV",MRI Machine,2,0,1
+P263,2024-10-22 05:15:11,2024-10-29 09:15:11,Pneumonia,Blood Test,General Ward,7,"Mask, Gown",X-ray Machine,2,0,0
+P264,2024-10-15 11:38:02,2024-10-28 21:38:02,Fracture,Chest X-ray,ICU,13,"Gloves, IV",X-ray Machine,0,1,1
+P265,2024-10-31 05:50:09,2024-11-14 11:50:09,Appendicitis,Appendectomy,ICU,14,"Gloves, IV",Surgical Table,1,1,1
+P266,2024-10-29 03:46:19,2024-11-02 10:46:19,Diabetes,Blood Test,General Ward,4,"Mask, Gown",MRI Machine,1,0,0
+P267,2024-10-28 14:46:37,2024-10-30 14:46:37,Pneumonia,Chest X-ray,General Ward,2,"Gown, IV",X-ray Machine,0,1,1
+P268,2024-10-03 11:05:51,2024-10-08 20:05:51,Diabetes,Blood Test,General Ward,5,"Gloves, IV",Surgical Table,1,0,1
+P269,2024-10-25 21:44:58,2024-10-30 07:44:58,Fracture,MRI,General Ward,4,"Mask, Gown",MRI Machine,1,0,1
+P270,2024-10-05 17:44:48,2024-10-18 17:44:48,Pneumonia,Chest X-ray,ICU,13,"Gloves, IV",X-ray Machine,0,0,2
+P271,2024-10-30 12:10:00,2024-11-12 17:10:00,Fracture,MRI,ICU,13,"Mask, Gown",MRI Machine,2,1,1
+P272,2024-10-01 00:56:24,2024-10-09 05:56:24,Fracture,Chest X-ray,General Ward,8,"Gloves, IV",X-ray Machine,0,1,2
+P273,2024-10-11 16:01:49,2024-10-20 01:01:49,Appendicitis,Appendectomy,ICU,8,"Gown, IV",Surgical Table,3,2,1
+P274,2024-10-01 05:36:55,2024-10-03 09:36:55,Appendicitis,Appendectomy,ICU,2,"Mask, Gown",Surgical Table,2,2,1
+P275,2024-10-08 16:50:03,2024-10-17 02:50:03,Pneumonia,Blood Test,General Ward,8,"Mask, Gown",MRI Machine,2,0,0
+P276,2024-10-11 06:56:20,2024-10-21 09:56:20,Fracture,MRI,General Ward,10,"Mask, Gown",MRI Machine,2,0,2
+P277,2024-10-07 05:09:48,2024-10-10 11:09:48,Pneumonia,Chest X-ray,General Ward,3,"Gown, IV",X-ray Machine,0,0,2
+P278,2024-10-07 18:38:32,2024-10-13 20:38:32,Pneumonia,Blood Test,General Ward,6,"Gown, IV",MRI Machine,2,0,0
+P279,2024-10-15 13:09:35,2024-10-18 14:09:35,Diabetes,Blood Test,General Ward,3,"Gloves, IV",MRI Machine,2,0,1
+P280,2024-10-10 11:02:58,2024-10-12 15:02:58,Diabetes,Blood Test,General Ward,2,"Gown, IV",Surgical Table,1,0,1
+P281,2024-10-06 19:32:13,2024-10-18 00:32:13,Pneumonia,Blood Test,ICU,11,"Gown, IV",MRI Machine,2,0,0
+P282,2024-10-07 18:39:17,2024-10-18 02:39:17,Appendicitis,Appendectomy,General Ward,10,"Mask, Gown",Surgical Table,2,1,0
+P283,2024-10-13 17:14:37,2024-10-14 17:14:37,Pneumonia,Blood Test,General Ward,1,"Gloves, IV",X-ray Machine,2,0,1
+P284,2024-10-15 18:16:06,2024-10-18 03:16:06,Appendicitis,Appendectomy,ICU,2,"Mask, Gown",Surgical Table,2,1,0
+P285,2024-10-26 00:49:47,2024-11-08 10:49:47,Pneumonia,Chest X-ray,ICU,13,"Gown, IV",X-ray Machine,0,0,1
+P286,2024-10-23 20:33:42,2024-10-24 21:33:42,Fracture,MRI,ER,1,"Gloves, IV",MRI Machine,2,0,2
+P287,2024-10-17 20:10:11,2024-10-30 03:10:11,Fracture,MRI,ICU,12,"Gown, IV",MRI Machine,1,0,2
+P288,2024-10-10 01:55:05,2024-10-20 04:55:05,Pneumonia,Chest X-ray,ICU,10,"Gown, IV",X-ray Machine,1,0,2
+P289,2024-10-04 16:55:26,2024-10-14 00:55:26,Pneumonia,Blood Test,General Ward,9,"Gown, IV",X-ray Machine,1,0,0
+P290,2024-10-18 11:27:43,2024-10-22 22:27:43,Pneumonia,Chest X-ray,General Ward,4,"Gown, IV",X-ray Machine,0,1,2
+P291,2024-10-24 05:11:31,2024-10-30 16:11:31,Pneumonia,Chest X-ray,General Ward,6,"Mask, Gown",X-ray Machine,0,1,2
+P292,2024-10-27 23:28:22,2024-11-11 08:28:22,Fracture,Chest X-ray,General Ward,14,"Mask, Gown",X-ray Machine,0,0,1
+P293,2024-10-18 13:45:48,2024-10-29 23:45:48,Pneumonia,Blood Test,ICU,11,"Gown, IV",X-ray Machine,2,0,0
+P294,2024-10-05 06:05:27,2024-10-18 16:05:27,Appendicitis,Appendectomy,ICU,13,"Gown, IV",Surgical Table,2,1,1
+P295,2024-10-13 00:11:39,2024-10-23 10:11:39,Pneumonia,Blood Test,General Ward,10,"Gloves, IV",MRI Machine,2,0,0
+P296,2024-10-11 09:08:32,2024-10-15 17:08:32,Fracture,Chest X-ray,General Ward,4,"Gown, IV",X-ray Machine,0,1,2
+P297,2024-10-06 00:53:56,2024-10-11 06:53:56,Pneumonia,Chest X-ray,General Ward,5,"Mask, Gown",X-ray Machine,1,0,2
+P298,2024-10-23 12:02:54,2024-10-29 16:02:54,Fracture,Chest X-ray,General Ward,6,"Gloves, IV",X-ray Machine,0,1,1
+P299,2024-10-14 12:17:28,2024-10-16 19:17:28,Pneumonia,Blood Test,General Ward,2,"Gloves, IV",MRI Machine,1,0,0
+P300,2024-10-16 03:28:46,2024-10-17 13:28:46,Pneumonia,Blood Test,ER,1,"Mask, Gown",Surgical Table,1,0,0
+P301,2024-10-21 10:43:58,2024-11-03 21:43:58,Fracture,Chest X-ray,ICU,13,"Mask, Gown",X-ray Machine,1,0,1
+P302,2024-10-06 14:14:33,2024-10-15 20:14:33,Fracture,MRI,General Ward,9,"Mask, Gown",MRI Machine,1,1,1
+P303,2024-10-10 06:47:56,2024-10-12 10:47:56,Fracture,MRI,General Ward,2,"Mask, Gown",MRI Machine,1,1,1
+P304,2024-10-31 12:00:42,2024-11-11 20:00:42,Pneumonia,Chest X-ray,ICU,11,"Gown, IV",X-ray Machine,0,1,2
+P305,2024-10-24 19:37:37,2024-11-06 00:37:37,Pneumonia,Blood Test,ICU,12,"Mask, Gown",X-ray Machine,1,0,0
+P306,2024-10-09 22:55:53,2024-10-23 02:55:53,Fracture,Chest X-ray,General Ward,13,"Mask, Gown",X-ray Machine,0,1,2
+P307,2024-10-17 06:05:30,2024-10-19 07:05:30,Pneumonia,Blood Test,General Ward,2,"Gown, IV",Surgical Table,2,0,1
+P308,2024-10-22 04:57:35,2024-11-05 15:57:35,Fracture,MRI,ICU,14,"Gloves, IV",MRI Machine,1,1,1
+P309,2024-10-23 13:23:52,2024-10-30 15:23:52,Diabetes,Blood Test,General Ward,7,"Mask, Gown",Surgical Table,2,0,1
+P310,2024-10-05 11:33:20,2024-10-07 19:33:20,Fracture,Chest X-ray,General Ward,2,"Gown, IV",X-ray Machine,0,1,2
+P311,2024-10-23 03:32:33,2024-10-24 12:32:33,Diabetes,Blood Test,ICU,1,"Mask, Gown",X-ray Machine,1,0,1
+P312,2024-10-26 08:27:24,2024-11-05 19:27:24,Appendicitis,Appendectomy,General Ward,10,"Mask, Gown",Surgical Table,2,2,0
+P313,2024-10-01 04:50:57,2024-10-10 14:50:57,Pneumonia,Chest X-ray,General Ward,9,"Gown, IV",X-ray Machine,1,1,2
+P314,2024-10-01 12:13:15,2024-10-15 20:13:15,Fracture,Chest X-ray,General Ward,14,"Gown, IV",X-ray Machine,1,0,1
+P315,2024-10-19 11:36:36,2024-10-28 17:36:36,Fracture,MRI,General Ward,9,"Gown, IV",MRI Machine,2,0,1
+P316,2024-10-01 11:22:08,2024-10-06 21:22:08,Diabetes,Blood Test,General Ward,5,"Mask, Gown",Surgical Table,2,0,0
+P317,2024-10-08 04:53:48,2024-10-16 15:53:48,Fracture,MRI,ICU,8,"Gloves, IV",MRI Machine,1,1,1
+P318,2024-10-09 21:14:54,2024-10-18 08:14:54,Fracture,Chest X-ray,ICU,8,"Gloves, IV",X-ray Machine,0,1,2
+P319,2024-10-22 10:33:39,2024-10-31 17:33:39,Diabetes,Blood Test,General Ward,9,"Mask, Gown",MRI Machine,1,0,1
+P320,2024-10-29 02:34:28,2024-11-01 10:34:28,Pneumonia,Chest X-ray,ICU,3,"Gloves, IV",X-ray Machine,1,0,2
+P321,2024-10-16 07:26:18,2024-10-19 14:26:18,Diabetes,Blood Test,ICU,3,"Mask, Gown",Surgical Table,1,0,1
+P322,2024-10-20 15:27:50,2024-10-24 00:27:50,Fracture,MRI,General Ward,3,"Mask, Gown",MRI Machine,2,1,1
+P323,2024-10-03 06:15:29,2024-10-14 06:15:29,Fracture,MRI,General Ward,11,"Gloves, IV",MRI Machine,2,0,1
+P324,2024-10-06 16:23:07,2024-10-19 02:23:07,Appendicitis,Appendectomy,ICU,12,"Mask, Gown",Surgical Table,3,1,0
+P325,2024-10-26 06:12:42,2024-10-28 07:12:42,Diabetes,Blood Test,General Ward,2,"Gown, IV",X-ray Machine,2,0,1
+P326,2024-10-03 17:24:31,2024-10-05 02:24:31,Diabetes,Blood Test,ER,1,"Gloves, IV",X-ray Machine,2,0,0
+P327,2024-10-16 21:59:42,2024-10-24 05:59:42,Pneumonia,Chest X-ray,General Ward,7,"Mask, Gown",X-ray Machine,0,0,2
+P328,2024-10-25 11:01:50,2024-10-29 18:01:50,Pneumonia,Chest X-ray,General Ward,4,"Gown, IV",X-ray Machine,0,0,1
+P329,2024-10-06 18:47:22,2024-10-11 23:47:22,Fracture,MRI,General Ward,5,"Mask, Gown",MRI Machine,1,1,2
+P330,2024-10-27 22:31:49,2024-11-09 00:31:49,Fracture,MRI,ICU,12,"Mask, Gown",MRI Machine,1,0,1
+P331,2024-10-09 03:14:17,2024-10-17 03:14:17,Diabetes,Blood Test,ICU,8,"Mask, Gown",X-ray Machine,1,0,0
+P332,2024-10-27 12:43:04,2024-11-08 20:43:04,Pneumonia,Blood Test,General Ward,12,"Gown, IV",Surgical Table,1,0,1
+P333,2024-10-15 17:42:14,2024-10-28 19:42:14,Appendicitis,Appendectomy,ICU,13,"Gloves, IV",Surgical Table,3,1,1
+P334,2024-10-09 15:31:17,2024-10-23 21:31:17,Diabetes,Blood Test,ICU,14,"Gloves, IV",Surgical Table,2,0,0
+P335,2024-10-24 16:52:55,2024-11-04 17:52:55,Appendicitis,Appendectomy,ICU,11,"Mask, Gown",Surgical Table,3,1,0
+P336,2024-10-03 04:10:15,2024-10-06 08:10:15,Diabetes,Blood Test,ICU,3,"Mask, Gown",MRI Machine,1,0,1
+P337,2024-10-12 02:07:11,2024-10-13 04:07:11,Diabetes,Blood Test,ER,1,"Gown, IV",MRI Machine,2,0,0
+P338,2024-10-06 00:56:47,2024-10-10 04:56:47,Appendicitis,Appendectomy,ICU,4,"Mask, Gown",Surgical Table,3,1,0
+P339,2024-10-20 21:53:17,2024-10-31 00:53:17,Fracture,MRI,ICU,10,"Gown, IV",MRI Machine,1,1,2
+P340,2024-10-13 09:02:36,2024-10-27 13:02:36,Pneumonia,Blood Test,General Ward,14,"Gown, IV",MRI Machine,1,0,1
+P341,2024-10-26 16:23:54,2024-11-01 18:23:54,Diabetes,Blood Test,General Ward,6,"Gown, IV",MRI Machine,2,0,1
+P342,2024-10-31 23:41:24,2024-11-03 08:41:24,Fracture,MRI,ICU,2,"Mask, Gown",MRI Machine,1,1,1
+P343,2024-10-08 20:08:55,2024-10-12 21:08:55,Appendicitis,Appendectomy,ICU,4,"Mask, Gown",Surgical Table,2,1,1
+P344,2024-10-09 08:31:18,2024-10-12 08:31:18,Appendicitis,Appendectomy,General Ward,3,"Mask, Gown",Surgical Table,3,2,0
+P345,2024-10-05 07:48:54,2024-10-11 10:48:54,Appendicitis,Appendectomy,ICU,6,"Gown, IV",Surgical Table,3,2,0
+P346,2024-10-24 22:11:09,2024-11-08 05:11:09,Appendicitis,Appendectomy,ICU,14,"Gown, IV",Surgical Table,2,1,0
+P347,2024-10-20 04:28:36,2024-10-26 08:28:36,Appendicitis,Appendectomy,General Ward,6,"Gloves, IV",Surgical Table,2,2,0
+P348,2024-10-02 13:00:38,2024-10-11 18:00:38,Appendicitis,Appendectomy,General Ward,9,"Gown, IV",Surgical Table,2,1,1
+P349,2024-10-20 18:01:34,2024-11-04 02:01:34,Diabetes,Blood Test,ICU,14,"Gown, IV",Surgical Table,2,0,0
+P350,2024-10-30 07:20:20,2024-11-03 11:20:20,Appendicitis,Appendectomy,ICU,4,"Mask, Gown",Surgical Table,3,1,0
+P351,2024-10-31 18:15:34,2024-11-01 22:15:34,Fracture,Chest X-ray,ER,1,"Mask, Gown",X-ray Machine,0,1,2
+P352,2024-10-13 14:22:43,2024-10-18 23:22:43,Fracture,Chest X-ray,ICU,5,"Gloves, IV",X-ray Machine,1,0,1
+P353,2024-10-11 20:12:31,2024-10-20 00:12:31,Diabetes,Blood Test,General Ward,8,"Mask, Gown",Surgical Table,1,0,0
+P354,2024-10-17 12:12:11,2024-10-18 22:12:11,Pneumonia,Chest X-ray,ER,1,"Gown, IV",X-ray Machine,1,0,1
+P355,2024-10-07 17:58:29,2024-10-20 17:58:29,Appendicitis,Appendectomy,ICU,13,"Mask, Gown",Surgical Table,2,1,0
+P356,2024-10-04 16:39:52,2024-10-17 01:39:52,Pneumonia,Blood Test,General Ward,12,"Gloves, IV",Surgical Table,1,0,0
+P357,2024-10-09 07:46:39,2024-10-18 14:46:39,Pneumonia,Chest X-ray,General Ward,9,"Gown, IV",X-ray Machine,0,1,1
+P358,2024-10-16 09:03:33,2024-10-23 17:03:33,Pneumonia,Blood Test,General Ward,7,"Gloves, IV",X-ray Machine,2,0,1
+P359,2024-10-06 09:14:04,2024-10-20 17:14:04,Diabetes,Blood Test,ICU,14,"Gown, IV",MRI Machine,1,0,1
+P360,2024-10-24 21:26:30,2024-11-03 00:26:30,Fracture,MRI,General Ward,9,"Gloves, IV",MRI Machine,2,0,2
+P361,2024-10-08 18:13:21,2024-10-19 21:13:21,Pneumonia,Blood Test,ICU,11,"Gloves, IV",MRI Machine,1,0,1
+P362,2024-10-23 04:02:40,2024-11-01 11:02:40,Appendicitis,Appendectomy,ICU,9,"Mask, Gown",Surgical Table,2,2,0
+P363,2024-10-01 13:22:18,2024-10-07 18:22:18,Fracture,Chest X-ray,General Ward,6,"Gloves, IV",X-ray Machine,1,0,1
+P364,2024-10-05 09:52:08,2024-10-16 20:52:08,Pneumonia,Chest X-ray,ICU,11,"Gloves, IV",X-ray Machine,0,0,1
+P365,2024-10-30 15:07:43,2024-11-06 15:07:43,Diabetes,Blood Test,General Ward,7,"Gown, IV",MRI Machine,2,0,0
+P366,2024-10-09 23:58:14,2024-10-18 07:58:14,Fracture,Chest X-ray,General Ward,8,"Gown, IV",X-ray Machine,1,1,1
+P367,2024-10-05 22:05:19,2024-10-18 23:05:19,Pneumonia,Blood Test,ICU,13,"Gloves, IV",X-ray Machine,2,0,1
+P368,2024-10-21 08:22:34,2024-10-30 14:22:34,Fracture,MRI,General Ward,9,"Gown, IV",MRI Machine,1,1,1
+P369,2024-10-23 08:08:50,2024-11-03 15:08:50,Pneumonia,Chest X-ray,ICU,11,"Mask, Gown",X-ray Machine,0,1,2
+P370,2024-10-29 09:33:19,2024-11-02 11:33:19,Diabetes,Blood Test,ICU,4,"Mask, Gown",MRI Machine,2,0,0
+P371,2024-10-20 16:34:43,2024-10-30 03:34:43,Appendicitis,Appendectomy,ICU,9,"Mask, Gown",Surgical Table,3,2,0
+P372,2024-10-03 17:43:04,2024-10-16 01:43:04,Diabetes,Blood Test,General Ward,12,"Gown, IV",Surgical Table,1,0,0
+P373,2024-10-30 02:42:24,2024-11-13 07:42:24,Appendicitis,Appendectomy,ICU,14,"Gown, IV",Surgical Table,3,1,1
+P374,2024-10-09 05:11:08,2024-10-19 14:11:08,Pneumonia,Blood Test,ICU,10,"Mask, Gown",Surgical Table,1,0,1
+P375,2024-10-07 02:45:33,2024-10-08 05:45:33,Diabetes,Blood Test,ER,1,"Gown, IV",MRI Machine,2,0,0
+P376,2024-10-02 22:31:50,2024-10-04 04:31:50,Diabetes,Blood Test,ER,1,"Gloves, IV",X-ray Machine,1,0,0
+P377,2024-10-21 21:08:49,2024-10-28 23:08:49,Pneumonia,Blood Test,General Ward,7,"Mask, Gown",Surgical Table,2,0,1
+P378,2024-10-04 23:32:45,2024-10-06 05:32:45,Appendicitis,Appendectomy,ER,1,"Gloves, IV",Surgical Table,3,1,0
+P379,2024-10-11 21:43:48,2024-10-23 06:43:48,Pneumonia,Blood Test,ICU,11,"Gown, IV",Surgical Table,1,0,0
+P380,2024-10-24 12:23:57,2024-10-25 20:23:57,Pneumonia,Blood Test,ER,1,"Mask, Gown",X-ray Machine,1,0,1
+P381,2024-10-17 05:15:11,2024-10-18 09:15:11,Diabetes,Blood Test,ER,1,"Gown, IV",Surgical Table,1,0,0
+P382,2024-10-19 10:11:58,2024-10-23 18:11:58,Appendicitis,Appendectomy,General Ward,4,"Gown, IV",Surgical Table,3,2,0
+P383,2024-10-11 12:26:25,2024-10-16 19:26:25,Fracture,Chest X-ray,General Ward,5,"Mask, Gown",X-ray Machine,0,1,1
+P384,2024-10-29 09:59:10,2024-11-12 14:59:10,Appendicitis,Appendectomy,ICU,14,"Mask, Gown",Surgical Table,2,1,0
+P385,2024-10-01 18:59:07,2024-10-11 02:59:07,Pneumonia,Chest X-ray,General Ward,9,"Mask, Gown",X-ray Machine,1,1,1
+P386,2024-10-27 01:59:37,2024-11-07 10:59:37,Diabetes,Blood Test,ICU,11,"Gloves, IV",Surgical Table,1,0,1
+P387,2024-10-18 14:11:14,2024-10-30 22:11:14,Pneumonia,Blood Test,ICU,12,"Gloves, IV",X-ray Machine,2,0,1
+P388,2024-10-21 04:18:42,2024-10-25 04:18:42,Pneumonia,Blood Test,General Ward,4,"Gown, IV",MRI Machine,1,0,0
+P389,2024-10-15 17:42:46,2024-10-27 18:42:46,Diabetes,Blood Test,ICU,12,"Gown, IV",MRI Machine,1,0,1
+P390,2024-10-17 03:09:14,2024-10-29 13:09:14,Diabetes,Blood Test,ICU,12,"Gloves, IV",MRI Machine,1,0,0
+P391,2024-10-26 17:57:26,2024-11-06 17:57:26,Fracture,MRI,ICU,11,"Gown, IV",MRI Machine,2,0,1
+P392,2024-10-27 12:56:04,2024-11-05 22:56:04,Fracture,MRI,General Ward,9,"Mask, Gown",MRI Machine,1,0,2
+P393,2024-10-31 16:42:38,2024-11-07 20:42:38,Appendicitis,Appendectomy,ICU,7,"Mask, Gown",Surgical Table,2,1,0
+P394,2024-10-11 13:36:27,2024-10-24 16:36:27,Appendicitis,Appendectomy,ICU,13,"Mask, Gown",Surgical Table,3,2,0
+P395,2024-10-19 21:02:15,2024-10-24 04:02:15,Appendicitis,Appendectomy,ICU,4,"Gown, IV",Surgical Table,3,1,1
+P396,2024-10-31 13:40:40,2024-11-01 17:40:40,Diabetes,Blood Test,ER,1,"Mask, Gown",MRI Machine,1,0,0
+P397,2024-10-15 23:58:06,2024-10-24 05:58:06,Fracture,Chest X-ray,ICU,8,"Mask, Gown",X-ray Machine,0,1,2
+P398,2024-10-15 21:56:12,2024-10-17 01:56:12,Appendicitis,Appendectomy,General Ward,1,"Mask, Gown",Surgical Table,2,1,0
+P399,2024-10-25 19:44:46,2024-10-26 20:44:46,Diabetes,Blood Test,ER,1,"Mask, Gown",Surgical Table,1,0,0
+P400,2024-10-07 12:49:43,2024-10-16 23:49:43,Fracture,Chest X-ray,General Ward,9,"Mask, Gown",X-ray Machine,0,0,1
+P401,2024-10-14 16:05:40,2024-10-16 22:05:40,Pneumonia,Blood Test,General Ward,2,"Mask, Gown",X-ray Machine,2,0,1
+P402,2024-10-30 22:07:12,2024-11-05 06:07:12,Appendicitis,Appendectomy,ICU,5,"Gown, IV",Surgical Table,2,2,0
+P403,2024-10-31 22:37:02,2024-11-03 03:37:02,Appendicitis,Appendectomy,ICU,2,"Mask, Gown",Surgical Table,2,2,0
+P404,2024-10-12 19:15:38,2024-10-25 02:15:38,Fracture,Chest X-ray,ICU,12,"Gloves, IV",X-ray Machine,0,0,1
+P405,2024-10-27 04:06:58,2024-11-08 09:06:58,Appendicitis,Appendectomy,ICU,12,"Gloves, IV",Surgical Table,2,2,0
+P406,2024-10-31 05:08:29,2024-11-01 15:08:29,Fracture,Chest X-ray,ER,1,"Gloves, IV",X-ray Machine,1,1,2
+P407,2024-10-15 15:19:48,2024-10-28 23:19:48,Diabetes,Blood Test,ICU,13,"Mask, Gown",X-ray Machine,2,0,1
+P408,2024-10-27 03:38:05,2024-10-28 14:38:05,Fracture,MRI,General Ward,1,"Mask, Gown",MRI Machine,2,0,1
+P409,2024-10-08 17:51:26,2024-10-11 21:51:26,Pneumonia,Chest X-ray,General Ward,3,"Gloves, IV",X-ray Machine,1,0,1
+P410,2024-10-08 15:17:05,2024-10-22 01:17:05,Fracture,MRI,ICU,13,"Mask, Gown",MRI Machine,2,0,2
+P411,2024-10-17 12:00:09,2024-10-21 15:00:09,Diabetes,Blood Test,ICU,4,"Gloves, IV",Surgical Table,2,0,0
+P412,2024-10-26 11:25:21,2024-11-09 18:25:21,Appendicitis,Appendectomy,ICU,14,"Gloves, IV",Surgical Table,1,1,1
+P413,2024-10-12 04:17:02,2024-10-21 06:17:02,Diabetes,Blood Test,ICU,9,"Mask, Gown",Surgical Table,1,0,0
+P414,2024-10-02 05:13:07,2024-10-14 07:13:07,Pneumonia,Chest X-ray,ICU,12,"Gloves, IV",X-ray Machine,0,0,2
+P415,2024-10-25 17:00:49,2024-11-02 17:00:49,Appendicitis,Appendectomy,ICU,8,"Mask, Gown",Surgical Table,3,1,0
+P416,2024-10-28 23:46:46,2024-11-02 00:46:46,Appendicitis,Appendectomy,General Ward,4,"Mask, Gown",Surgical Table,3,1,0
+P417,2024-10-27 11:15:46,2024-11-09 22:15:46,Fracture,MRI,General Ward,13,"Gloves, IV",MRI Machine,1,0,2
+P418,2024-10-11 17:26:26,2024-10-15 18:26:26,Fracture,MRI,General Ward,4,"Mask, Gown",MRI Machine,1,0,2
+P419,2024-10-09 01:37:04,2024-10-10 02:37:04,Pneumonia,Chest X-ray,ER,1,"Gloves, IV",X-ray Machine,1,1,2
+P420,2024-10-18 22:00:56,2024-10-20 02:00:56,Pneumonia,Blood Test,ER,1,"Mask, Gown",Surgical Table,2,0,0
+P421,2024-10-27 05:35:58,2024-10-30 05:35:58,Pneumonia,Chest X-ray,General Ward,3,"Mask, Gown",X-ray Machine,0,1,1
+P422,2024-10-04 05:22:53,2024-10-06 16:22:53,Fracture,MRI,ICU,2,"Gown, IV",MRI Machine,2,0,2
+P423,2024-10-05 09:53:58,2024-10-17 11:53:58,Appendicitis,Appendectomy,ICU,12,"Gloves, IV",Surgical Table,1,1,0
+P424,2024-10-10 09:59:47,2024-10-20 11:59:47,Appendicitis,Appendectomy,ICU,10,"Gown, IV",Surgical Table,3,2,1
+P425,2024-10-10 21:05:29,2024-10-13 02:05:29,Diabetes,Blood Test,ICU,2,"Mask, Gown",X-ray Machine,1,0,0
+P426,2024-10-05 06:43:10,2024-10-18 13:43:10,Fracture,MRI,General Ward,13,"Gown, IV",MRI Machine,2,0,1
+P427,2024-10-24 22:18:36,2024-11-02 04:18:36,Appendicitis,Appendectomy,ICU,8,"Mask, Gown",Surgical Table,3,1,1
+P428,2024-10-01 05:24:14,2024-10-13 13:24:14,Fracture,Chest X-ray,ICU,12,"Mask, Gown",X-ray Machine,1,1,2
+P429,2024-10-10 11:14:09,2024-10-13 14:14:09,Appendicitis,Appendectomy,ICU,3,"Gown, IV",Surgical Table,1,1,0
+P430,2024-10-04 17:19:42,2024-10-05 17:19:42,Diabetes,Blood Test,General Ward,1,"Gown, IV",X-ray Machine,1,0,0
+P431,2024-10-26 20:23:30,2024-10-30 21:23:30,Fracture,Chest X-ray,General Ward,4,"Gown, IV",X-ray Machine,0,1,2
+P432,2024-10-14 20:27:46,2024-10-27 04:27:46,Fracture,Chest X-ray,ICU,12,"Mask, Gown",X-ray Machine,0,1,2
+P433,2024-10-13 23:51:50,2024-10-18 08:51:50,Pneumonia,Chest X-ray,General Ward,4,"Gown, IV",X-ray Machine,1,1,1
+P434,2024-10-16 15:31:33,2024-10-19 18:31:33,Diabetes,Blood Test,ICU,3,"Gown, IV",X-ray Machine,1,0,0
+P435,2024-10-01 14:34:55,2024-10-03 19:34:55,Appendicitis,Appendectomy,ICU,2,"Gown, IV",Surgical Table,1,2,1
+P436,2024-10-26 16:21:04,2024-11-06 22:21:04,Fracture,Chest X-ray,ICU,11,"Gown, IV",X-ray Machine,1,1,2
+P437,2024-10-16 16:13:08,2024-10-21 23:13:08,Appendicitis,Appendectomy,ICU,5,"Gloves, IV",Surgical Table,1,2,1
+P438,2024-10-03 18:09:10,2024-10-17 19:09:10,Appendicitis,Appendectomy,ICU,14,"Gown, IV",Surgical Table,3,1,1
+P439,2024-10-24 16:37:05,2024-11-05 23:37:05,Diabetes,Blood Test,ICU,12,"Mask, Gown",Surgical Table,2,0,1
+P440,2024-10-19 04:49:57,2024-11-01 12:49:57,Fracture,MRI,ICU,13,"Gloves, IV",MRI Machine,2,1,2
+P441,2024-10-30 04:13:41,2024-11-08 04:13:41,Fracture,Chest X-ray,General Ward,9,"Gown, IV",X-ray Machine,0,1,2
+P442,2024-10-23 10:25:07,2024-11-03 13:25:07,Pneumonia,Blood Test,ICU,11,"Gloves, IV",Surgical Table,1,0,1
+P443,2024-10-14 17:40:37,2024-10-18 17:40:37,Appendicitis,Appendectomy,General Ward,4,"Gloves, IV",Surgical Table,3,1,0
+P444,2024-10-01 06:40:58,2024-10-12 07:40:58,Fracture,MRI,ICU,11,"Mask, Gown",MRI Machine,1,0,1
+P445,2024-10-05 12:47:11,2024-10-08 20:47:11,Appendicitis,Appendectomy,ICU,3,"Mask, Gown",Surgical Table,2,2,1
+P446,2024-10-26 07:57:06,2024-11-03 10:57:06,Pneumonia,Chest X-ray,General Ward,8,"Gown, IV",X-ray Machine,0,0,1
+P447,2024-10-04 02:16:52,2024-10-11 03:16:52,Fracture,Chest X-ray,General Ward,7,"Mask, Gown",X-ray Machine,1,0,2
+P448,2024-10-20 08:02:52,2024-10-27 08:02:52,Fracture,Chest X-ray,General Ward,7,"Gloves, IV",X-ray Machine,0,1,2
+P449,2024-10-02 01:51:32,2024-10-08 02:51:32,Diabetes,Blood Test,General Ward,6,"Gloves, IV",MRI Machine,1,0,1
+P450,2024-10-10 20:01:44,2024-10-22 07:01:44,Pneumonia,Chest X-ray,ICU,11,"Gown, IV",X-ray Machine,1,0,1
+P451,2024-10-06 02:14:30,2024-10-16 02:14:30,Diabetes,Blood Test,General Ward,10,"Gown, IV",X-ray Machine,2,0,1
+P452,2024-10-05 18:01:21,2024-10-07 05:01:21,Appendicitis,Appendectomy,ER,1,"Gown, IV",Surgical Table,2,2,0
+P453,2024-10-21 04:34:31,2024-10-29 15:34:31,Pneumonia,Chest X-ray,General Ward,8,"Mask, Gown",X-ray Machine,1,1,2
+P454,2024-10-05 19:50:59,2024-10-09 01:50:59,Fracture,MRI,General Ward,3,"Gloves, IV",MRI Machine,2,0,2
+P455,2024-10-24 06:59:47,2024-10-28 11:59:47,Diabetes,Blood Test,General Ward,4,"Gown, IV",Surgical Table,1,0,0
+P456,2024-10-01 09:01:07,2024-10-10 19:01:07,Pneumonia,Chest X-ray,General Ward,9,"Gown, IV",X-ray Machine,0,1,1
+P457,2024-10-05 13:39:39,2024-10-16 22:39:39,Pneumonia,Chest X-ray,ICU,11,"Gloves, IV",X-ray Machine,1,0,1
+P458,2024-10-29 22:13:42,2024-11-09 05:13:42,Appendicitis,Appendectomy,ICU,10,"Gloves, IV",Surgical Table,2,2,1
+P459,2024-10-06 02:17:57,2024-10-19 08:17:57,Pneumonia,Blood Test,General Ward,13,"Mask, Gown",X-ray Machine,2,0,1
+P460,2024-10-19 13:00:35,2024-10-29 23:00:35,Diabetes,Blood Test,ICU,10,"Gown, IV",X-ray Machine,2,0,0
+P461,2024-10-20 16:58:42,2024-10-21 17:58:42,Fracture,MRI,ER,1,"Mask, Gown",MRI Machine,2,0,1
+P462,2024-10-06 08:51:56,2024-10-13 18:51:56,Appendicitis,Appendectomy,ICU,7,"Mask, Gown",Surgical Table,1,1,0
+P463,2024-10-27 11:01:07,2024-11-10 15:01:07,Fracture,MRI,ICU,14,"Gown, IV",MRI Machine,1,1,2
+P464,2024-10-22 02:24:31,2024-10-30 02:24:31,Fracture,MRI,General Ward,8,"Gown, IV",MRI Machine,1,1,2
+P465,2024-10-05 00:16:21,2024-10-13 03:16:21,Appendicitis,Appendectomy,ICU,8,"Mask, Gown",Surgical Table,3,1,0
+P466,2024-10-22 10:42:44,2024-10-26 21:42:44,Diabetes,Blood Test,General Ward,4,"Mask, Gown",X-ray Machine,1,0,1
+P467,2024-10-08 06:39:20,2024-10-11 07:39:20,Pneumonia,Blood Test,General Ward,3,"Gloves, IV",MRI Machine,1,0,0
+P468,2024-10-24 13:27:43,2024-10-26 17:27:43,Fracture,Chest X-ray,ICU,2,"Gown, IV",X-ray Machine,1,1,2
+P469,2024-10-18 18:00:29,2024-10-28 01:00:29,Fracture,Chest X-ray,ICU,9,"Mask, Gown",X-ray Machine,1,1,2
+P470,2024-10-21 07:48:33,2024-10-24 11:48:33,Fracture,Chest X-ray,General Ward,3,"Mask, Gown",X-ray Machine,0,0,2
+P471,2024-10-31 11:27:05,2024-11-11 12:27:05,Diabetes,Blood Test,ICU,11,"Gown, IV",MRI Machine,1,0,1
+P472,2024-10-31 23:15:16,2024-11-10 05:15:16,Appendicitis,Appendectomy,ICU,9,"Gown, IV",Surgical Table,3,1,0
+P473,2024-10-18 07:02:05,2024-10-31 16:02:05,Diabetes,Blood Test,ICU,13,"Gloves, IV",MRI Machine,2,0,0
+P474,2024-10-05 11:04:22,2024-10-11 20:04:22,Appendicitis,Appendectomy,ICU,6,"Gown, IV",Surgical Table,1,1,1
+P475,2024-10-30 00:09:45,2024-10-31 00:09:45,Appendicitis,Appendectomy,ER,1,"Gloves, IV",Surgical Table,1,2,0
+P476,2024-10-13 12:00:37,2024-10-16 12:00:37,Diabetes,Blood Test,General Ward,3,"Gloves, IV",Surgical Table,2,0,1
+P477,2024-10-14 17:44:59,2024-10-15 18:44:59,Pneumonia,Chest X-ray,General Ward,1,"Mask, Gown",X-ray Machine,1,0,2
+P478,2024-10-02 09:52:11,2024-10-09 09:52:11,Diabetes,Blood Test,General Ward,7,"Mask, Gown",X-ray Machine,1,0,0
+P479,2024-10-13 18:58:57,2024-10-27 00:58:57,Fracture,Chest X-ray,ICU,13,"Gown, IV",X-ray Machine,0,0,2
+P480,2024-10-22 20:06:42,2024-11-01 07:06:42,Pneumonia,Blood Test,General Ward,9,"Gown, IV",MRI Machine,2,0,1
+P481,2024-10-11 23:18:30,2024-10-23 23:18:30,Appendicitis,Appendectomy,ICU,12,"Gown, IV",Surgical Table,1,2,1
+P482,2024-10-19 06:55:27,2024-10-29 08:55:27,Diabetes,Blood Test,General Ward,10,"Gown, IV",MRI Machine,1,0,1
+P483,2024-10-18 16:27:29,2024-10-30 01:27:29,Diabetes,Blood Test,General Ward,11,"Mask, Gown",X-ray Machine,2,0,0
+P484,2024-10-09 05:10:12,2024-10-14 08:10:12,Pneumonia,Blood Test,General Ward,5,"Mask, Gown",X-ray Machine,2,0,0
+P485,2024-10-04 06:06:56,2024-10-05 15:06:56,Appendicitis,Appendectomy,ER,1,"Gown, IV",Surgical Table,2,2,0
+P486,2024-10-15 09:57:27,2024-10-20 20:57:27,Pneumonia,Blood Test,General Ward,5,"Gown, IV",Surgical Table,1,0,0
+P487,2024-10-16 11:35:33,2024-10-23 20:35:33,Appendicitis,Appendectomy,ICU,7,"Gloves, IV",Surgical Table,1,1,0
+P488,2024-10-23 06:43:44,2024-10-24 12:43:44,Fracture,Chest X-ray,ER,1,"Gown, IV",X-ray Machine,0,1,1
+P489,2024-10-17 06:28:08,2024-10-19 15:28:08,Fracture,MRI,ICU,2,"Gown, IV",MRI Machine,1,0,2
+P490,2024-10-27 05:25:50,2024-11-07 12:25:50,Appendicitis,Appendectomy,General Ward,11,"Gown, IV",Surgical Table,1,2,0
+P491,2024-10-25 08:56:01,2024-11-01 15:56:01,Pneumonia,Chest X-ray,General Ward,7,"Gown, IV",X-ray Machine,1,1,2
+P492,2024-10-22 23:08:21,2024-10-30 10:08:21,Diabetes,Blood Test,General Ward,7,"Gown, IV",MRI Machine,2,0,0
+P493,2024-10-29 07:05:03,2024-10-30 10:05:03,Fracture,MRI,ER,1,"Mask, Gown",MRI Machine,2,1,2
+P494,2024-10-15 16:08:45,2024-10-29 00:08:45,Fracture,MRI,ICU,13,"Gown, IV",MRI Machine,1,1,2
+P495,2024-10-06 11:14:16,2024-10-16 16:14:16,Appendicitis,Appendectomy,ICU,10,"Gloves, IV",Surgical Table,1,1,0
+P496,2024-10-15 01:27:45,2024-10-28 01:27:45,Appendicitis,Appendectomy,General Ward,13,"Gown, IV",Surgical Table,1,2,0
+P497,2024-10-11 05:24:17,2024-10-14 15:24:17,Pneumonia,Blood Test,General Ward,3,"Gown, IV",MRI Machine,2,0,1
+P498,2024-10-07 22:56:06,2024-10-20 03:56:06,Pneumonia,Blood Test,ICU,12,"Gloves, IV",MRI Machine,2,0,0
+P499,2024-10-30 23:25:38,2024-11-01 08:25:38,Pneumonia,Blood Test,General Ward,1,"Mask, Gown",X-ray Machine,2,0,0
+P500,2024-10-02 06:30:14,2024-10-15 16:30:14,Appendicitis,Appendectomy,ICU,13,"Gown, IV",Surgical Table,2,1,0
